@@ -22,9 +22,9 @@
     "WITH ME?",
     "I",
     "MISS U",
-    "ALI LOVES YOU",
+    "Fares LOVES YOU",
     "XOXO :)",
-    "I LOVE U AMA",
+    "I LOVE U ALAA",
   ];
 
   let canvas,
